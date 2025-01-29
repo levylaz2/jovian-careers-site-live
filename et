@@ -1,0 +1,35 @@
+[33mcommit 6d7c9d252686cae0046999e1e6eea944e4ff49fd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mll/add-meta-tags[m[33m)[m
+Author: levylaz2 <levilazarus68@gmail.com>
+Date:   Wed Jan 29 16:39:57 2025 +0000
+
+    Add favicon and meta image
+
+[33mcommit 8f68547e740eb56489abceac6d2416d574c62b3d[m
+Author: levylaz2 <levilazarus68@gmail.com>
+Date:   Wed Jan 29 16:20:34 2025 +0000
+
+    added meta tags
+
+[33mcommit b63adeb687ba6d5b4753b204e422a2d853f07768[m
+Author: levylaz2 <levilazarus68@gmail.com>
+Date:   Wed Jan 29 15:41:16 2025 +0000
+
+    added title and favicon
+
+[33mcommit c68abc05faeaafe0d98f1ffacd10e7c0174d6ecc[m[33m ([m[1;32mmain[m[33m)[m
+Author: levylaz2 <levilazarus68@gmail.com>
+Date:   Wed Jan 29 14:00:18 2025 +0000
+
+    updated index
+
+[33mcommit 6eea61ce165393ae7712de5c4fb0b805c026fcba[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: levylaz2 <levilazarus68@gmail.com>
+Date:   Wed Jan 29 04:56:20 2025 +0000
+
+    Adding the HTML ans CSS files
+
+[33mcommit a0da73afc0b7c6cb67a17edb727d35b78f42a11a[m
+Author: levylaz2 <levilazarus68@gmail.com>
+Date:   Wed Jan 29 02:39:57 2025 +0100
+
+    Initial commit
